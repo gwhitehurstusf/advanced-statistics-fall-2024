@@ -1,4 +1,4 @@
-## Advanced Statistical Modeling – Fall 2024
+## Advanced Statistics – Fall 2024
 
 ## Overview
 This repository contains coursework and applied statistical analyses completed for Advanced Statistics (Fall 2024). The focus of this course was on statistical modeling, inference, and multivariate analysis using R.
@@ -7,7 +7,7 @@ The projects demonstrate applied quantitative reasoning, data analysis workflow,
 ## Tools & Environment
 R
 RStudio
-Core statistical packages (e.g., stats, ggplot2, dplyr)
+Core statistical packages ()
 
 ## Topics Covered
 Probability distributions
